@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1041473362026",
+    "project_id": "falvourhub-food-app",
+    "storage_bucket": "falvourhub-food-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041473362026:android:f4501e9c8d471c0c73d213",
+        "android_client_info": {
+          "package_name": "com.example.flavorhub_food_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA39Zh3NIBfHVBgauxpJmw7aJca_qYEUjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
